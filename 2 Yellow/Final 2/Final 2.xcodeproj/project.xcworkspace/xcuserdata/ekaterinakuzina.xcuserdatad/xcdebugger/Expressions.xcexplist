@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "Database::Last(Date const&amp;) const:database.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "lastAdded">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "int Database::RemoveIf&lt;main::$_0&gt;(main::$_0):database.h">
+         <PersistentStrings>
+            <PersistentString
+               value = "database">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "int Database::EventsList::RemoveIf&lt;main::$_0&gt;(Date const&amp;, main::$_0):database.h">
+         <PersistentStrings>
+            <PersistentString
+               value = "lasts">
+            </PersistentString>
+            <PersistentString
+               value = "events">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Database::EventsList::Add(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt; &gt; const&amp;):database.h">
+         <PersistentStrings>
+            <PersistentString
+               value = "lasts">
+            </PersistentString>
+            <PersistentString
+               value = "events">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
